@@ -21,15 +21,18 @@ More details about the method we used in this code, please refer to [Article](ht
 ## Source Code
 
 - RNN Model.ipynb
-  - The method we used to achieve 2nd prize in this competition. In this file, it includes the process of feature engineering, model construction, and training method.
+  - The method we used to achieve 2nd prize in this competition. 
+  - In this file, it includes the process of feature engineering, model construction, and training method.
 - Ensemble.ipynb
   - The method of soft-ensemble to achieve higher score on leaderboard.
 - Ranking Loss.py
-  - The PyTorch version of many different ranking loss. For Tensorflow version, please refer to [TF Ranking](https://www.tensorflow.org/ranking).
+  - The PyTorch version of many different ranking loss. 
+  - For Tensorflow version, please refer to [TF Ranking](https://www.tensorflow.org/ranking).
 - Transformer.py
   - The transformer model we implemented.
 - DASALC.py
-  - We implemented the method published in 2021 ICLR by Google. For more details, please refer to [Are neural rankers still outperformed by gradient boosted decision trees?](https://research.google/pubs/pub50030/)
+  - We implemented the method published in 2021 ICLR by Google. 
+  - For more details, please refer to [Are neural rankers still outperformed by gradient boosted decision trees?](https://research.google/pubs/pub50030/)
 
 ## Contact Information
 
